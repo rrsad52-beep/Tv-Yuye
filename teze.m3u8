@@ -1,7 +1,3 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:10.0,
-http://flussonic.azfiber.net/xezertv/video.m3u8
-
+EXTM3U
+#EXTINF:-1 tvg-name="Azad Azərbaycan" tvg-id="" group-title="MI",Azad Azərbaycan ⁿⁱᶜᵃᵗ
+http://flussonic.azfiber.net/azadazerbaycan/video.m3u8
