@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+http://4kplus.info:80/play/live.php?mac=00:1A:79:C8:1D:E4&stream=10701&extension=ts
+#EXT-X-ENDLIST
