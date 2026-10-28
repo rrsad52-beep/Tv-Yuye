@@ -1,5 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW TV" group-title="TR", NOW TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://nowtv.com.tr
-http://tv.dsmart-go.workers.dev/?ID=https://nowtv.com.trcanli-yayin|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36&Referer=https://nowtv.com.tr
+#EXTBG:{"headers":{"User-Agent":"Mozilla/5.0 (Linux; Android 10; K)","Referer":"https://nowtv.com.tr"}}
+http://tv.dsmart-go.workers.dev/?ID=https://nowtv.com.trcanli-yayin
