@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NowTV.tr" tvg-name="NOW TV" tvg-logo="https://nowtv.com.tr" group-title="TR", NOW TV
-http://tv.dsmart-go.workers.dev/?ID=https://www.nowtv.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="NowTV.tr" tvg-name="NOW TV" group-title="Ulusal", NOW TV
+https://nowtv.com.tr
