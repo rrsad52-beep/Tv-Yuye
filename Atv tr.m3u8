@@ -1,4 +1,4 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW TV" group-title="TR", NOW TV
-#EXT-X-STREAM-INF:PROGRAM-ID=2850
-http://workers.dev|User-Agent=Mozilla/5.0&Referer=https://www.nowtv.com.tr/
+#EXTVLCOPT:http-user-agent=okhttp/4.9.3
+https://canlitv.center
