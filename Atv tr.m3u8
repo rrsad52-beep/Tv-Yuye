@@ -1,6 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW TV" tvg-logo="https://nowtv.com.tr" group-title="TR", NOW TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://nowtv.com.tr
-http://tv.dsmart-go.workers.dev/?ID=https://nowtv.com.trcanli-yayin
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW TV" group-title="TR", NOW TV
+#EXT-X-STREAM-INF:PROGRAM-ID=2850
+http://workers.dev|User-Agent=Mozilla/5.0&Referer=https://www.nowtv.com.tr/
