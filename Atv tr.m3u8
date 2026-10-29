@@ -1,24 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" group-title="TR - Ulusal", TRT 1
-https://trt.com.tr
-#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT HABER" group-title="TR - Haber", TRT HABER
-https://trt.com.tr
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT SPOR" group-title="TR - Spor", TRT SPOR
-https://trt.com.tr
-#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" group-title="TR - Belgesel", TRT BELGESEL
-https://trt.com.tr
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT ÇOCUK" group-title="TR - Çocuk", TRT ÇOCUK
-https://trt.com.tr
-#EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW TV" group-title="TR - Ulusal", NOW TV
-https://canlitv.center
-#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="KANAL D" group-title="TR - Ulusal", KANAL D
-https://canlitv.center
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" group-title="TR - Ulusal", ATV
-https://canlitv.center
-#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" group-title="TR - Ulusal", SHOW TV
-https://canlitv.center
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" group-title="TR - Ulusal", STAR TV
-https://canlitv.center
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" group-title="TR - Ulusal", TV8
-https://canlitv.center
-
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-name="NOW TV" group-title="TR", NOW TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://nowtv.com.tr
+http://tv.dsmart-go.workers.dev/?ID=https://nowtv.com.trcanli-yayin|User-Agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36&Referer=https://nowtv.com.tr
